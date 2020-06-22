@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hey</title>
+    </head>
+    <body>
+        <h1>Javascript change HTML</h1>
+        <p id = "id1">I am a para</p>
+        <script>
+            document.getElementById("id1").innerHTML = "I am a changed para";
+        </script>
+    </body>
+</html>
