@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hey</title>
+    </head>
+    <body>
+        <script>
+            function myfunc(txt){
+                alert(txt);
+            }
+        </script>
+        <form>
+            <input type = "button" onclick = "myfunc('Good morning!')" value = "It's morning">
+            <input type = "button" onclick = "myfunc('Good evening!')" value = "It's evening">
+        </form>
+    </body>
+</html>
