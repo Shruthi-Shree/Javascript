@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Hey</title>
+    </head>
+    <body>
+        <script>
+            var firstname = "Shruthi";
+            document.write(firstname);
+            document.write("<br>")
+            firstname = "Shree";
+            document.write(firstname);
+        </script>
+    </body>
+</html>
